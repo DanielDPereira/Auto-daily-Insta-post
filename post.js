@@ -1,3 +1,5 @@
+console.log("started")
+
 const { IgApiClient } = require('instagram-private-api');
 const path = require('path');
 const fs = require('fs');
